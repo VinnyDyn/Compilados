@@ -1,2 +1,6 @@
 # Compilados
-Unzip to use
+Unzip to use!
+Todos os projetos possuem um arquivo tutorial :D
+
+# Unified Service Desk: Test & Deploy
+Configure sua string de conexão através do arquivo .config 
